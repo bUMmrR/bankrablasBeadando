@@ -6,3 +6,5 @@ Ami lehet bug:<br />
   -Ha a kör végén nincs meg mind az 5 arany mert egy bandita (c) felvette akkor lehet hogy serrif elmegy megölni magát a bal felső sarokba.<br />
   -Ha a seriff felvesz a whiskeyt (Kőbányait) akkor nem jönn létre egy új<br />
 Biztos van még de nem emlékszek rá<br />
+<br />
+  -Agócs Dániel
